@@ -28,6 +28,8 @@ This makes the app scalable and highly secure.
 ### S Interview Questions
 ## Describe the CI/CD process, from making changes to the code to integrating into the pipeline.
 
+A continuous integration and continuous deployment (CI/CD) pipeline is a series of steps that must be performed in order to deliver a new version of software. CI/CD pipelines are a practice focused on improving software delivery throughout the software development life cycle via automation. 
+
 In CI/CD process is used manage the development and delivery process in the form of pipeline. It can be catagorised into 4 stages: build, test, release and deploy. CI automates the build and test part. When a developer writes code and pushes to github, we automate the process of build and test part of the pipeline. The code is tested automatically and merged with the branch. If any problem arieses the developer is informed by automated message. 
 CD/CDE adds the delivery (release) and deployment part to the pipeline. With CD, its incremental process to CI and moves the code the the development phase and with CDE it goes one step further by deploying it automatically. Every step is dependent on the previous process being successful and its main aim is to limit human interaction.
 
