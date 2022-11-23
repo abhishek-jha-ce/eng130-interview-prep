@@ -44,3 +44,18 @@ Docker is an platform for developing, shipping, and running applications. Docker
 
 Docker Compose is a yaml file which is an automation script that allows us to run multiple images at one time. if you didn't have this file you would have to run the images one by one but the containers will not be linked together. the docker compose file allows you to run one script and then have this script build as many images as you need and then connect them at the same time.
 
+## How do you handle stress?
+
+Pressure, i believe, is very important aspect of any work place. Good pressure—such as having many tasks and upcoming deadline helps me to stay motivated and productive. If not handled properly these pressure leads to stress. I am skilled at balancing multiple projects and meeting deadlines, which prevents me for letting the pressure build up and turn it into stress. For e.g. I once had 2 tasks due in the same week, and it was a lot of pressure. However, I created a schedule that detailed how I would break down each project into small assignments, I managed to complete all tasks on time and avoid any unnecessary stress
+
+## Why DevOps?
+
+I was initially interested in pursuing a career in software development, but while learning about cloud computing i came across the practice of DevOps. I was fascinated how using devops we can do frequent changes to softwares through automation and have end products ready so smoothly. I have always been a team player and always loved working and collaboating with different teams. So i feel like Dev Ops is a career path which i would flourish in as i both enjoy the concepts and the process.
+
+## Where do you see yourself in 2-5 years time?
+
+In 2 to 5 years time i would like to see myself working in a position with lots of responsibility and mentoring emerging talents. I would like to be very confident in my tech skills and would like to be fully invested in my team and the products we create. In order to achieve that, my short term goal is to get placed with a client as soon as possible. In the next 2 years i would like to learn and develop further and become a competent dev-ops engineer, and in the 5 years i will be working as an arcitect.
+
+## What can you bring to our team?
+
+I have been trained for devops role at sparta global and i can bring along all the technical knowledge that i have learned. I also like taking creative approach to solve problems, which is very helpful for any team to have a team member who takes critical thinking approach for everything. I am also somebody who can take initiative and solve problems without being asked and can work independently. 
