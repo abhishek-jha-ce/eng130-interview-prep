@@ -28,7 +28,8 @@ This makes the app scalable and highly secure.
 ### S Interview Questions
 ## Describe the CI/CD process, from making changes to the code to integrating into the pipeline.
 
-In CI/CD process developers writes code and pushes it to a github repository using the public key. The webhook triggers a Jenkins build for that repository or we can manually trigger this build a webhook is a API that provides data as it is happening so you get the changes immediately as they are committed rather having to frequently pulling after this webhook is triggered, Jenkins will clone down this repository to its local workspace so the agent node where it builds the product and runs its tests once this build is complete, the Jenkins publishes the results and launches the app using the pem file to an aws instance if the build is successful
+In CI/CD process is used manage the development and delivery process in the form of pipeline. It can be catagorised into 4 stages: build, test, release and deploy. CI automates the build and test part. When a developer writes code and pushes to github, we automate the process of build and test part of the pipeline. The code is tested automatically and merged with the branch. If any problem arieses the developer is informed by automated message. 
+CD/CDE adds the delivery (release) and deployment part to the pipeline. With CD, its incremental process to CI and moves the code the the development phase and with CDE it goes one step further by deploying it automatically. Every step is dependent on the previous process being successful and its main aim is to limit human interaction.
 
 ## What is PR(Pull Request)
 
