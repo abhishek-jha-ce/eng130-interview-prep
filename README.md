@@ -1,7 +1,7 @@
 # Interview Preparation
 
 ## What is DevOps?
-- **Dev Ops** is a set of practice that combines software development and IT operation. Its main aim is to shorten the time taken to develop a software or a piece of functionality for that software and provide continuous delivery of high quality software. With the implementation of devops different teams can work together improving the speed of delivery of products.
+- **Dev Ops** is a set of practice that combines software development and IT operation. Its main aim is to shorten the time taken to develop a software or a piece of functionality and provide continuous delivery of high quality software. With the implementation of devops different teams can work together improving the speed of delivery and quality of products.
 
 ## What are the benefits of DevOps?
 - Faster & better product delivery
