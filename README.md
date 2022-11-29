@@ -1,4 +1,7 @@
 # Interview Preparation
+## Agile
+
+## Scrum
 
 ## What is DevOps?
 - **Dev Ops** is a set of practice that combines software development and IT operation. Its main aim is to shorten the time taken to develop a software or a piece of functionality and provide continuous delivery of high quality software. With the implementation of devops different teams can work together improving the speed of delivery and quality of products.
@@ -10,6 +13,12 @@
 - Greater automation
 - Stable working environment
 - Greater innovation
+
+## Why use dev ops?
+- Increase deployment frequency
+- Lower failure rate of new release
+- Shorten Lead time between fixes
+- Faster mean time to recovery - if anything crashes
 
 ## What is a VPC?
 VPC is a service that enables us to create our own private network in the public cloud. We can then launch our resources inside the VPC and allow access to only authorized users. It resembles the traditional network that is operated in the data center.
@@ -25,7 +34,6 @@ The 2 tier architecture is a architecture where we separate the presentation lay
 
 This makes the app scalable and highly secure. 
 
-### S Interview Questions
 ## Describe the CI/CD process, from making changes to the code to integrating into the pipeline.
 
 A continuous integration and continuous deployment (CI/CD) pipeline is a series of steps that must be performed in order to deliver a new version of software. CI/CD pipelines are a practice focused on improving software delivery throughout the software development life cycle via automation. 
@@ -40,12 +48,39 @@ A pull request is an event where a contributor/developer is ready to begin the p
 After starting a pull request we can see a high-level overview of the changes between our branch and the main branch. we can add summary, review the changes after each commit, add labels
 After initializing a pull request, you'll see a review page that shows a high-level overview of the changes between your branch (the compare branch) and the repository's base branch. You can add a summary of the proposed changes, review the changes made by commits, add labels, milestones, and assignees, and @mention individual contributors or teams. 
 
+## Cloud Computing
+
+It is the delivery of on demand computing resources like hardware, software, sotrage database etc. to business and individuals over the internet on a pay as you go basis. It enables organizations to access and store information without managing their own physical devices or IT infrastructure.
+
+## Advantage of Cloud Computing
+1. Highly Scalable - can spin up 1 or multiple servers within seconds.
+2. Cost Savings - Only pay for the resource used.
+3. High Availability - Can be made available anywhere anytime, so it is not tied to a location.
+4. Increase speed & agility - resources can be made available in minutes, so the cost and time it takes to set up dev environment is reduced.
+
+## Infrastructure as Code
+It is the process of automating the it tasks of an organisatino by using script files instead of doing it manually. These IT tasks includes managing and provisioning the computing resources.
+
+## Ad Hoc Commands
+Ad hoc commands are commands which can be run individualy to perform quick functions. These commands need not be performed later. For eg. rebooting a server.
+
+## Autoscaling
 
 ## What is docker & docker compose?
 
 Docker is an platform for developing, shipping, and running applications. Docker enables us to separate our applications from our infrastructure so we can deliver software quickly. With Docker, we can manage our infrastructure in the same way as we manage our applications. It helps us to significantly reduce the time it takes from writing code and running the application in production.
 
 Docker Compose is a yaml file which is an automation script that allows us to run multiple images at one time. if you didn't have this file you would have to run the images one by one but the containers will not be linked together. the docker compose file allows you to run one script and then have this script build as many images as you need and then connect them at the same time.
+
+## Microservice
+
+Microservices refers to an architectural style for developing applications where large application are separated into smaller independent parts, with each part having its own responsibility.
+
+To serve a single user request, a microservices-based application can call on many internal microservices to compose its response.
+
+Containers are a well-suited microservices architecture example, since they let you focus on developing the services without worrying about the dependencies.
+
+The microservice architecture enables the rapid, frequent and reliable delivery of large, complex applications. It also enables an organization to evolve its technology stack
 
 ## How do you handle stress?
 
